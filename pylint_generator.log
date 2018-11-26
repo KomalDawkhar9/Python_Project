@@ -1,0 +1,56 @@
+61420   52264   2018-07-05 11:49:33,882    logger            __initialize_logger       46      INFO            ********************************************************************************
+61420   52264   2018-07-05 11:49:33,882    logger            __initialize_logger       49      INFO            *************************  CVEmail Execution Started *************************
+61420   52264   2018-07-05 11:49:33,882    logger            __initialize_logger       51      INFO            ********************************************************************************
+61420   52264   2018-07-05 11:49:36,595    uc_helper         get_files_list            151     INFO            All files list from given update form [('vaultcx/Source/tools/Automation/Database/InformixUtils/informixhelper.py', ), ('vaultcx/Source/tools/Automation/Testcases/5100.py', ), ('vaultcx/Source/tools/Automation/Testcases/52981.py', ), ('vaultcx/Source/tools/cvpysdk/cvpysdk/instances/informixinstance.py', ), ('cxunix/source/tools/Automation/Database/InformixUtils/informixhelper.py', ), ('cxunix/source/tools/Automation/Testcases/5100.py', ), ('cxunix/source/tools/Automation/Testcases/52981.py', ), ('cxunix/source/tools/cvpysdk/cvpysdk/instances/informixinstance.py', )]
+61420   52264   2018-07-05 11:49:36,598    uc_helper         validate_files            160     INFO            File in a list ('vaultcx/Source/tools/Automation/Database/InformixUtils/informixhelper.py', )
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            166     INFO            Given python file exists as--vaultcx/Source/tools/Automation/Database/InformixUtils/informixhelper.py
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            160     INFO            File in a list ('vaultcx/Source/tools/Automation/Testcases/5100.py', )
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            166     INFO            Given python file exists as--vaultcx/Source/tools/Automation/Testcases/5100.py
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            160     INFO            File in a list ('vaultcx/Source/tools/Automation/Testcases/52981.py', )
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            166     INFO            Given python file exists as--vaultcx/Source/tools/Automation/Testcases/52981.py
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            160     INFO            File in a list ('vaultcx/Source/tools/cvpysdk/cvpysdk/instances/informixinstance.py', )
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            166     INFO            Given python file exists as--vaultcx/Source/tools/cvpysdk/cvpysdk/instances/informixinstance.py
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            160     INFO            File in a list ('cxunix/source/tools/Automation/Database/InformixUtils/informixhelper.py', )
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            169     INFO            Given file is not python file or wrong directory as--cxunix/source/tools/Automation/Database/InformixUtils/informixhelper.py
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            160     INFO            File in a list ('cxunix/source/tools/Automation/Testcases/5100.py', )
+61420   52264   2018-07-05 11:49:36,599    uc_helper         validate_files            169     INFO            Given file is not python file or wrong directory as--cxunix/source/tools/Automation/Testcases/5100.py
+61420   52264   2018-07-05 11:49:36,600    uc_helper         validate_files            160     INFO            File in a list ('cxunix/source/tools/Automation/Testcases/52981.py', )
+61420   52264   2018-07-05 11:49:36,600    uc_helper         validate_files            169     INFO            Given file is not python file or wrong directory as--cxunix/source/tools/Automation/Testcases/52981.py
+61420   52264   2018-07-05 11:49:36,600    uc_helper         validate_files            160     INFO            File in a list ('cxunix/source/tools/cvpysdk/cvpysdk/instances/informixinstance.py', )
+61420   52264   2018-07-05 11:49:36,600    uc_helper         validate_files            169     INFO            Given file is not python file or wrong directory as--cxunix/source/tools/cvpysdk/cvpysdk/instances/informixinstance.py
+61420   52264   2018-07-05 11:49:37,433    uc_helper         email_receiver            186     INFO            Receivers List: ['ygovindasetty', 'ssunkara']
+61420   52264   2018-07-05 11:49:38,256    uc_helper         email_receiver            194     INFO            System Enforced Code Reviewer's List:['ygovindasetty', 'ssunkara', 'spakhare']
+61420   52264   2018-07-05 11:49:39,094    uc_helper         email_receiver            200     INFO            Developer's Name:['ygovindasetty', 'ssunkara', 'spakhare', 'bkishan']
+61420   52264   2018-07-05 11:49:43,047    uc_helper         email_receivers_alias     219     INFO            All receivers:ygovindasetty@commvault.com,ssunkara@commvault.com,spakhare@commvault.com,bkishan@commvault.com,
+61420   52264   2018-07-05 11:49:43,662    logger            __initialize_logger       46      INFO            ********************************************************************************
+61420   52264   2018-07-05 11:49:43,662    logger            __initialize_logger       46      INFO            ********************************************************************************
+61420   52264   2018-07-05 11:49:43,662    logger            __initialize_logger       49      INFO            *************************  CVEmail Execution Started *************************
+61420   52264   2018-07-05 11:49:43,662    logger            __initialize_logger       49      INFO            *************************  CVEmail Execution Started *************************
+61420   52264   2018-07-05 11:49:43,662    logger            __initialize_logger       51      INFO            ********************************************************************************
+61420   52264   2018-07-05 11:49:43,662    logger            __initialize_logger       51      INFO            ********************************************************************************
+61420   52264   2018-07-05 11:50:32,510    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/Automation/Database/InformixUtils/informixhelper.py
+61420   52264   2018-07-05 11:50:32,510    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/Automation/Database/InformixUtils/informixhelper.py
+61420   52264   2018-07-05 11:50:33,020    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/Automation/Testcases/5100.py
+61420   52264   2018-07-05 11:50:33,020    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/Automation/Testcases/5100.py
+61420   52264   2018-07-05 11:50:33,672    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/Automation/Testcases/52981.py
+61420   52264   2018-07-05 11:50:33,672    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/Automation/Testcases/52981.py
+61420   52264   2018-07-05 11:50:34,851    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/cvpysdk/cvpysdk/instances/informixinstance.py
+61420   52264   2018-07-05 11:50:34,851    cvemail_pylint    run_pylint                93      INFO            Pylint output created for file: F:\PC\test-mount\vaultcx/Source/tools/cvpysdk/cvpysdk/instances/informixinstance.py
+61420   52264   2018-07-05 11:50:40,627    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:50:40,627    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:50:40,628    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\informixhelper_pylint.txt
+61420   52264   2018-07-05 11:50:40,628    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\informixhelper_pylint.txt
+61420   52264   2018-07-05 11:50:50,853    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:50:50,853    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:50:50,853    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\5100_pylint.txt
+61420   52264   2018-07-05 11:50:50,853    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\5100_pylint.txt
+61420   52264   2018-07-05 11:51:00,239    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:51:00,239    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:51:00,239    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\52981_pylint.txt
+61420   52264   2018-07-05 11:51:00,239    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\52981_pylint.txt
+61420   52264   2018-07-05 11:51:10,456    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:51:10,456    cvemail_pylint    pylint_text               116     INFO            Text file created successfully
+61420   52264   2018-07-05 11:51:10,456    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\informixinstance_pylint.txt
+61420   52264   2018-07-05 11:51:10,456    cvemail_pylint    pylint_text               118     INFO            Wrote Pylint output in text file as \\devshare\devl\CoreAutomation\Pylint\50888\informixinstance_pylint.txt
+61420   52264   2018-07-05 11:51:24,383    cvemail_pylint    mail_pylint               223     INFO            Email sent successfully
+61420   52264   2018-07-05 11:51:24,383    cvemail_pylint    mail_pylint               223     INFO            Email sent successfully
